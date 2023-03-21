@@ -84,8 +84,8 @@ handleSvg(mediaQuery);
 
 ### Continued development
 
-- I try to learn more about making the pages responsive.
-- How to use media Queries effectively.
+- I  will learn more about making the pages responsive.
+- How to effectively use media Queries.
 
 ### Useful resources
 
