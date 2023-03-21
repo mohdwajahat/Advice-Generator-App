@@ -74,7 +74,7 @@ svg{
 
 
 
-.container button:active{
+.container button:hover{
     box-shadow: 0 0px 80px 3px var(--NeonGreen);
             /* h-offset v-offset blur spread color  */
 } 
